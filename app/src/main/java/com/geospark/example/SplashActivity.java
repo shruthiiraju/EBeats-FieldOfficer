@@ -21,7 +21,7 @@ public class SplashActivity extends AppCompatActivity {
             public void run() {
                 try {
                     sleep(3 * 1000);
-                    startActivity(new Intent(SplashActivity.this, TripActivity.class));
+                    startActivity(new Intent(SplashActivity.this, MainActivity.class));
                     finish();
                 } catch (Exception e) {
                 }
