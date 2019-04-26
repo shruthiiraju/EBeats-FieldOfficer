@@ -5,6 +5,7 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 
+import com.geospark.example.trip.TripActivity;
 import com.google.firebase.FirebaseApp;
 import com.google.firebase.iid.FirebaseInstanceId;
 
@@ -20,7 +21,7 @@ public class SplashActivity extends AppCompatActivity {
             public void run() {
                 try {
                     sleep(3 * 1000);
-                    startActivity(new Intent(SplashActivity.this, MainActivity.class));
+                    startActivity(new Intent(SplashActivity.this, TripActivity.class));
                     finish();
                 } catch (Exception e) {
                 }

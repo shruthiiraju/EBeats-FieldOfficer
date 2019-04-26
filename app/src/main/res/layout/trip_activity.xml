@@ -91,4 +91,11 @@
         android:layout_height="fill_parent"
         android:layout_below="@+id/trip"
         android:layout_marginTop="10dp" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/chat"
+        android:text="CHAT"
+        android:layout_alignParentBottom="true"/>
 </RelativeLayout>

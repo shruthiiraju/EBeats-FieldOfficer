@@ -1,42 +1,42 @@
 {
   "project_info": {
-    "project_number": "283115851372",
-    "firebase_url": "https://geotest-a941f.firebaseio.com",
-    "project_id": "geotest-a941f",
-    "storage_bucket": "geotest-a941f.appspot.com"
+    "project_number": "359786078384",
+    "firebase_url": "https://ebeats-caf0d.firebaseio.com",
+    "project_id": "ebeats-caf0d",
+    "storage_bucket": "ebeats-caf0d.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:283115851372:android:eea0509c039f5b0c",
+        "mobilesdk_app_id": "1:359786078384:android:eae562e9d3922b5f",
         "android_client_info": {
-          "package_name": "com.example.geotest"
+          "package_name": "com.example.ebeats"
         }
       },
       "oauth_client": [
         {
-          "client_id": "283115851372-tav9ra59hjjnrflhids1rpbg6g94kle3.apps.googleusercontent.com",
+          "client_id": "359786078384-g1904gdmlquq3dpj5u4r120r9odkqjug.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.example.geotest",
+            "package_name": "com.example.ebeats",
             "certificate_hash": "1c76eb3b479e899e9b783a473413a9a48ecf4581"
           }
         },
         {
-          "client_id": "283115851372-468mko03tsshhlpu7mmjn6hf53uajefd.apps.googleusercontent.com",
+          "client_id": "359786078384-fjt0io2bu9ifamnfj4bcjl4j0cptv1nq.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCXaObCTgloARiHbrFPUNNregLlV4YOHnU"
+          "current_key": "AIzaSyAuCvaVcHwhhJnpk9y3bsGLSwrJireHYPU"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "283115851372-468mko03tsshhlpu7mmjn6hf53uajefd.apps.googleusercontent.com",
+              "client_id": "359786078384-fjt0io2bu9ifamnfj4bcjl4j0cptv1nq.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
@@ -45,72 +45,35 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:283115851372:android:9a38f55c3f153faa",
-        "android_client_info": {
-          "package_name": "com.example.geotracker"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "283115851372-jlh0h0k5u2h2iq4krh2tg2rif2frtj69.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.example.geotracker",
-            "certificate_hash": "1c76eb3b479e899e9b783a473413a9a48ecf4581"
-          }
-        },
-        {
-          "client_id": "283115851372-468mko03tsshhlpu7mmjn6hf53uajefd.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyCXaObCTgloARiHbrFPUNNregLlV4YOHnU"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "283115851372-468mko03tsshhlpu7mmjn6hf53uajefd.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:283115851372:android:a60712af55bac682",
+        "mobilesdk_app_id": "1:359786078384:android:a60712af55bac682",
         "android_client_info": {
           "package_name": "com.example.tests4"
         }
       },
       "oauth_client": [
         {
-          "client_id": "283115851372-um31c809ahatk86hem32l8rsat53oeoa.apps.googleusercontent.com",
+          "client_id": "359786078384-vlef9rb0o1396u442g5m18sq8sqruqto.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "com.example.tests4",
-            "certificate_hash": "1c76eb3b479e899e9b783a473413a9a48ecf4581"
+            "certificate_hash": "9f9029d14f79bc5ac4646b9e39563501e46b5af8"
           }
         },
         {
-          "client_id": "283115851372-468mko03tsshhlpu7mmjn6hf53uajefd.apps.googleusercontent.com",
+          "client_id": "359786078384-fjt0io2bu9ifamnfj4bcjl4j0cptv1nq.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCXaObCTgloARiHbrFPUNNregLlV4YOHnU"
+          "current_key": "AIzaSyAuCvaVcHwhhJnpk9y3bsGLSwrJireHYPU"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "283115851372-468mko03tsshhlpu7mmjn6hf53uajefd.apps.googleusercontent.com",
+              "client_id": "359786078384-fjt0io2bu9ifamnfj4bcjl4j0cptv1nq.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
@@ -119,35 +82,27 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:283115851372:android:737dc2f9fbf7be15",
+        "mobilesdk_app_id": "1:359786078384:android:737dc2f9fbf7be15",
         "android_client_info": {
           "package_name": "com.geospark.example"
         }
       },
       "oauth_client": [
         {
-          "client_id": "283115851372-s2rcu35ii41ovn8uq2tjano5mv36a78u.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.geospark.example",
-            "certificate_hash": "1c76eb3b479e899e9b783a473413a9a48ecf4581"
-          }
-        },
-        {
-          "client_id": "283115851372-468mko03tsshhlpu7mmjn6hf53uajefd.apps.googleusercontent.com",
+          "client_id": "359786078384-fjt0io2bu9ifamnfj4bcjl4j0cptv1nq.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCXaObCTgloARiHbrFPUNNregLlV4YOHnU"
+          "current_key": "AIzaSyAuCvaVcHwhhJnpk9y3bsGLSwrJireHYPU"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "283115851372-468mko03tsshhlpu7mmjn6hf53uajefd.apps.googleusercontent.com",
+              "client_id": "359786078384-fjt0io2bu9ifamnfj4bcjl4j0cptv1nq.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
