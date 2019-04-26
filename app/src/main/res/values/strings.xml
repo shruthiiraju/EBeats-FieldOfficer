@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">GeoSpark Example</string>
+    <string name="app_name">Field Officer Tracker</string>
     <string name="log">User</string>
     <string name="create">CreateUser</string>
     <string name="get">GetUser</string>
