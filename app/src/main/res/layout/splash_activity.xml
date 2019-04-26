@@ -11,7 +11,7 @@
         android:gravity="center"
         android:paddingLeft="16dp"
         android:paddingRight="16dp"
-        android:text="@string/app_name"
+        android:text="E-Beats"
         android:textColor="@color/black"
         android:textSize="22sp"
         android:textStyle="bold" />
@@ -23,7 +23,7 @@
         android:gravity="center"
         android:paddingLeft="16dp"
         android:paddingRight="16dp"
-        android:text="Copyright © 2017 GeoSpark Inc. All rights reserved."
+        android:text=""
         android:textColor="@color/black"
         android:textSize="12sp" />
 </RelativeLayout>
